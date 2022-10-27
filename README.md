@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arianeosilva
-- 👀 I’m interested in new new knowledge.
+- 👀 I’m interested in new knowledge.
 - 🌱 I’m currently learning html/css.
 
 
